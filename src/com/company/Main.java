@@ -10,7 +10,7 @@ public class Main {
 
         bestSeries.series();
 
-        /*
+
         int goal = 10000;
         // Заполняю массив кол-вом шагов
         int[][] allStepsArray = new int[12][30];
@@ -38,6 +38,6 @@ public class Main {
         // Список количества шагов каждый день
         stepTracker.stepList(4, allStepsArray);
 
-         */
+
     }
 }
